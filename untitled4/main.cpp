@@ -29,6 +29,16 @@ int main() {
     } while ( e <= 19);
 // kenny alexander torres 0909-21-1316
 
+// ejercicio 3 con for-if
+    cout << " los números pares del 2 al 20" << endl;
+    for (int i = 20; i >= 1 ; i--) {
+        if (i % 2 == 0){
+            cout << i<< endl;
+        }
+
+    }
+// kenny alexander torres 0909-21-1316
+
 
 
     return 0;
